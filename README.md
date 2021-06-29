@@ -1,1 +1,3 @@
 # KvantumCoin
+
+<!-- tnet.kvantumcoin.ga -->
